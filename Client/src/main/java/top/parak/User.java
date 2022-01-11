@@ -1,16 +1,9 @@
 package top.parak;
 
 /**
- * <p> Project: WiFiChat </p>
- * <p> Package: top.parak </p>
- * <p> FileName: User <p>
- * <p> Description: <p>
- * <p> Created By IntelliJ IDEA </p>
- *
  * @author KHighness
- * @since 2021/1/18
+ * @since 2021-01-18
  */
-
 public class User{
 
     private String name;

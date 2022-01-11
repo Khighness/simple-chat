@@ -18,16 +18,9 @@ import java.util.Map;
 import java.util.StringTokenizer;
 
 /**
- * <p> Project: WiFiChat </p>
- * <p> Package: top.parak </p>
- * <p> FileName: Client <p>
- * <p> Description: <p>
- * <p> Created By IntelliJ IDEA </p>
- *
  * @author KHighness
- * @since 2021/1/18
+ * @since 2021-01-18
  */
-
 public class Client extends JFrame {
 
     private static final String IMAGE_DIR_PATH = System.getProperty("user.dir") + "/Client/src/main/resources/image/";
@@ -40,7 +33,7 @@ public class Client extends JFrame {
     private JLabel Label_Send = new JLabel("Say");
     private JTextField Text_HostIP = new JTextField("127.0.0.1");
     private JTextField Text_Port = new JTextField("3333");
-    private JTextField Text_Name = new JTextField("ParaK");
+    private JTextField Text_Name = new JTextField("Khighness");
     private JButton Button_Connect = new JButton("Connect");
     private JButton Button_Disconnect = new JButton("Disconnect");
     private JButton Button_Send = new JButton("Say");

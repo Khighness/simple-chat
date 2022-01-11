@@ -19,16 +19,9 @@ import java.util.Calendar;
 import java.util.StringTokenizer;
 
 /**
- * <p> Project: WiFiChat </p>
- * <p> Package: top.parak </p>
- * <p> FileName: Server <p>
- * <p> Description: <p>
- * <p> Created By IntelliJ IDEA </p>
- *
  * @author KHighness
- * @since 2021/1/18
+ * @since 2021-01-18
  */
-
 public class Server {
 
     private static final String IMAGE_DIR_PATH = System.getProperty("user.dir") + "/Server/src/main/resources/image/";

@@ -1,11 +1,10 @@
-```
 ### Java
+**/target/
+.class
+*.log
 
-/target/
 
-
-### STS ###
-
+### STS
 .apt_generated
 .classpath
 .factorypath
@@ -14,20 +13,19 @@
 .springBeans
 .sts4-cache
 
-### IntelliJ IDEA
 
-.idea
+### IntelliJ IDEA
+**/.idea/
 .out
 *.iws
 *.iml
 *.ipr
 
-### NetBeans 
 
+### NetBeans
 /nbproject/private/
 /build/
 /nbbuild/
 /dist/
 /nbdist/
 /.nb-gradle/
-```
